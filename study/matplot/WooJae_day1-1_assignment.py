@@ -2,6 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
 
+# 이우재
 # 1-1 2번 문제
 
 x = np.linspace(0, 2*np.pi, 200)
